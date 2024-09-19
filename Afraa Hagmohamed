@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afraa Hagmohamed Elamin - Resume</title>
+</head>
+<body>
+    <h1>Afraa Hagmohamed Elamin</h1>
+    <p>Sudan - Atbra</p>
+    <p>Phone: +249 96 087 0069</p>
+    <p>Email: <a href="mailto:afraahagmohamed@gmail.com">afraahagmohamed@gmail.com</a></p>
+    
+    <h2>Objective</h2>
+    <p>I seek challenging opportunities where I can fully use my skills for the success of the organization.</p>
+
+    <h2>Experience</h2>
+    <h3>Sudani Telecom Company</h3>
+    <p><strong>Customer Service Agent</strong></p>
+    <ul>
+        <li>Handled many inbound and outbound calls, addressing customer concerns and questions.</li>
+        <li>Provided helpful solutions to customer issues.</li>
+    </ul>
+
+    <h3>Al-Khandaqawi</h3>
+    <p><strong>Support & Assistant</strong></p>
+    <ul>
+        <li>Assisted with administrative aspects, organizing appointments and meetings with clients.</li>
+        <li>Managed technical aspects, provided network security coverage, solved problems, and submitted reports.</li>
+    </ul>
+
+    <h3>Sadig International Co. Ltd</h3>
+    <p><strong>Support Engineer</strong></p>
+    <ul>
+        <li>Assisted staff with technical issues, ensuring a stable network connection.</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p><strong>School of Computer Science, Sharq El Nile College</strong> – Good</p>
+    <p><strong>Charisma Workforce Development - CWD</strong> – Health and Safety (IOSH) Training Courses</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li><strong>Communication Skills:</strong> Clear and concise communication, active listening, ability to convey complex ideas.</li>
+        <li><strong>Time Management:</strong> Prioritization of tasks, meeting deadlines, efficient use of time.</li>
+        <li><strong>Self Motivation:</strong> Ability to work independently, proactive approach to tasks, results-driven mindset.</li>
+        <li><strong>Adaptability:</strong> Flexibility in handling changes, openness to new tools, quick pivoting when needed.</li>
+    </ul>
+</body>
+</html>
